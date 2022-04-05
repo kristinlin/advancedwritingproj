@@ -1,0 +1,24 @@
+.home {
+    padding: 10%;
+}
+
+.section-link {
+    text-decoration: none;
+    color: white;
+}
+
+.session-link:hover {
+    color: red;
+}
+
+.partName {
+    font-size: 30px;
+}
+
+.Links {
+    padding-left: 5%;
+}
+
+.homeTitle {
+    font-size: 100px;
+}

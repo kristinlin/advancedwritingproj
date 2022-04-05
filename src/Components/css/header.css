@@ -1,0 +1,15 @@
+.header {
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-bottom: 0px;
+    text-align: right;
+    font-size: 40px;
+}
+.header-link {
+    color: white;
+}
+
+.header-link:hover {
+    color: red;
+}

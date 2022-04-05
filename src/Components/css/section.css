@@ -1,0 +1,55 @@
+.section {
+    padding: 10%;
+    padding-top: 8%;
+    text-align: left;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 50px;
+    /* color: red; */
+}
+
+img {
+    width: 100%;
+}
+
+.text {
+    text-align: justify;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 80px;
+    line-height: 0.9em;
+}
+
+audio {
+    width: 100%;
+    
+}
+
+.part {
+    text-align: center;
+}
+
+.prev {
+    font-size: 50px;
+    text-align: left;
+    margin-top: 10%;
+}
+.next {
+    font-size: 50px;
+    text-align: right;
+    margin-top: 10%;
+}
+
+.next-link {
+    color: white;
+}
+
+.next-link:hover {
+    color: red;
+}
