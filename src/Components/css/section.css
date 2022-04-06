@@ -48,8 +48,21 @@ audio {
 
 .next-link {
     color: white;
+    background-color: black;
 }
 
 .next-link:hover {
     color: red;
+    background-color: black;
+}
+ 
+a {
+    color: white;
+    text-decoration: underline;
+}
+
+a:hover {
+    background-color: white;
+    text-decoration: none;
+    color: black;
 }
