@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/advancedwritingproj/static/css/main.b543c675.css",
-    "main.js": "/advancedwritingproj/static/js/main.000531fd.js",
+    "main.js": "/advancedwritingproj/static/js/main.f71a7532.js",
     "static/js/787.b3d32539.chunk.js": "/advancedwritingproj/static/js/787.b3d32539.chunk.js",
     "static/media/logo.svg": "/advancedwritingproj/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/advancedwritingproj/index.html",
     "main.b543c675.css.map": "/advancedwritingproj/static/css/main.b543c675.css.map",
-    "main.000531fd.js.map": "/advancedwritingproj/static/js/main.000531fd.js.map",
+    "main.f71a7532.js.map": "/advancedwritingproj/static/js/main.f71a7532.js.map",
     "787.b3d32539.chunk.js.map": "/advancedwritingproj/static/js/787.b3d32539.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b543c675.css",
-    "static/js/main.000531fd.js"
+    "static/js/main.f71a7532.js"
   ]
 }
